@@ -1,0 +1,20 @@
+
+docs/
+COMMIT_STANDARD.md
+
+# source
+
+lib/
+tests/
+index.ts
+tsconfig.json
+.prettierrc
+
+# eslint
+.eslintrc.js
+.eslintignore
+
+.env.test
+.release-it.json
+.vscode/settings.json
+commitlint.config.js

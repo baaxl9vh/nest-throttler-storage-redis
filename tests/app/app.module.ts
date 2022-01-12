@@ -1,16 +1,3 @@
-# nest-throttler-storage-redis
-
-nestjs throttler storage redis base on node-redis
-
-## Installation
-
-```shell
-npm install --save nest-throttler-storage-redis redis
-```
-
-## Usage
-
-```javascript
 import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { APP_GUARD } from '@nestjs/core';
@@ -52,5 +39,3 @@ import { AppService } from './app.service';
   ],
 })
 export class AppModule {}
-
-```
