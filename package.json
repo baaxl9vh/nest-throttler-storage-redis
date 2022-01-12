@@ -1,6 +1,6 @@
 {
   "name": "nest-throttler-storage-redis",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "nestjs throttler storage redis service base on node-redis",
   "main": "index.js",
   "directories": {
